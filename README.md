@@ -1,7 +1,7 @@
 # Waveshare-RP2040-LCD-0.96
 Sample Code for Waveshare RP2040-LCD-0.96
 
-I purchased the Waveshare RP2040-LCD-0.96 from Amazon and found that there were few examples to use the functions of the board.
+I purchased the Waveshare RP2040-LCD-0.96 from Amazon and found that there were few CircuitPython examples to use the functions of the board.
 
 - Amazon Product: <a href="https://smile.amazon.com/gp/product/B09LT5LYPD/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&th=1"
 - Waveshare Store: <a href="https://www.waveshare.com/RP2040-LCD-0.96.htm">https://www.waveshare.com/RP2040-LCD-0.96.htm</a>
