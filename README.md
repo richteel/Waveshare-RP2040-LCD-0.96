@@ -34,5 +34,5 @@ I purchased the Waveshare RP2040-LCD-0.96 from Amazon and found that there were 
 <strong>Other Notes</strong>
 
 - Battery Connector
-	- The connector is 1.25 not 2.0 so most LiPo batteries will not fit. It will be necessary to obtain MX1.25 connectors and carefully splice to the Lithium battery. Not certain if micro JST connectors are the same or will fit.
+	- The connector is 1.25mm not 2.0mm so most LiPo batteries will not fit. It will be necessary to obtain MX1.25 connectors and carefully splice to the Lithium battery. Not certain if micro JST connectors are the same or will fit.
 
